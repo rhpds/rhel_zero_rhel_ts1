@@ -4,7 +4,7 @@ Ugh, the system’s website is down. Check it out:
 curl http://localhost
 ....
 
-(or you can use the `+System Website+` tab in the interface there above
+(or you can use the `System Website` tab in the interface there above
 the terminal)
 
 See how it’s the test page? *THAT’S NOT RIGHT*
@@ -14,7 +14,7 @@ people out there that need some web content and all they’re getting is
 garbage. We need them to see our super awesome site!
 
 If you need to check the site again, you can use curl (above) or on the
-`+System Website+` tab there’s a little arrow-circle-reload-thing on the
+`System Website` tab there’s a little arrow-circle-reload-thing on the
 right-side above the rendered website.
 
 Above this instructions pane is the amount of time you have left before
